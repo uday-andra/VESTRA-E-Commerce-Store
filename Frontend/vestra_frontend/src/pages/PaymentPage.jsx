@@ -32,7 +32,7 @@ export default function PaymentPage() {
     }
 
     const options = {
-      key: "rzp_live_x6EMYym8jXLqQ7", // 🧡 Replace with your Razorpay key
+      key: " ", // 🧡 Replace with your Razorpay key
       amount: totalPrice * 100, // Convert ₹ to paise
       currency: "INR",
       name: "Vestra Store",
