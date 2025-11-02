@@ -166,12 +166,6 @@ cd vestra_frontend
 npm install
 npm run dev
 ```
-### 4️⃣ Access the App
-Frontend: http://localhost:5173/
-
-Backend:  http://localhost:8080/
-
-
 
 ## 🤝 Contributing
 
