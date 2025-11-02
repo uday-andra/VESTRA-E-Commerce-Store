@@ -12,8 +12,8 @@ import java.util.Base64;
 @Service
 public class RazorpayService {
 
-    private final String RAZORPAY_KEY_ID = "rzp_test_1234567890abcdef"; // ✅ Replace with your live/test key
-    private final String RAZORPAY_SECRET = "1234567890abcdef1234567890abcdef"; // ⚠️ Replace with your secret key
+    private final String RAZORPAY_KEY_ID = " "; // ✅ Replace with your live/test key
+    private final String RAZORPAY_SECRET = " "; // ⚠️ Replace with your secret key
 
     // 🔹 Create Razorpay order
     public Order createOrder(int amount) throws RazorpayException {
