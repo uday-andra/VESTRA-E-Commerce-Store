@@ -1,5 +1,4 @@
 package com.excelR.vestra_backend.model;
-
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
 import java.util.List;
@@ -30,7 +29,6 @@ public class Order {
         this.totalAmount = totalAmount;
     }
 
-    // private LocalDateTime createdAt = LocalDateTime.now();
     @Column(nullable = false, updatable = false)
     private LocalDateTime createdAt;
 
@@ -66,7 +64,6 @@ public class Order {
     public Long getId() {
         return id;
     }
-    // public void setId(Long id) { this.id = id; }
 
     public String getRazorpayOrderId() {
         return razorpayOrderId;
