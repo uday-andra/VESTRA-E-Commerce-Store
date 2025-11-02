@@ -135,11 +135,15 @@ Built with a focus on **scalability, modularity, and data security** — ideal f
 
 ## 🖼️ SCREENSHOTS
 
+## 🖼️ SCREENSHOTS
+
 <p align="center">
   <a href="https://github.com/uday-andra/VESTRA-E-Commerce-Store/tree/main/Screenshots" target="_blank">
-    <img src="https://img.shields.io/badge/📸%20View%20All%20Screenshots-Click%20Here-00bcd4?style=for-the-badge&logo=github" alt="View Screenshots"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=500&lines=📸+Click+Here+to+View+All+Screenshots+on+GitHub!" alt="View All Screenshots Animated Text" /> <br>
+     <img src="https://img.shields.io/badge/📸%20View%20All%20Screenshots-Click%20Here-00bcd4?style=for-the-badge&logo=github" alt="View Screenshots"/>
   </a>
 </p>
+
 
 
 ## 🪜 Setup Steps
