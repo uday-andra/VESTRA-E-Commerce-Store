@@ -13,7 +13,7 @@ import java.util.Date;
 public class JwtUtils {
 
     // ✅ Use a valid Base64 key (64 chars)
-    private static final String SECRET_KEY = "N1rZc3E2VnZQZXZkWmtUZEN3R2lWdnQ5ak9rM2t2bUF4d0hZL2V4U0E1ZVpoY3ZTTnF1Q2hQWkE9PQ==";
+    private static final String SECRET_KEY = "YOUR_SECRET_KEY";
     private static final long EXPIRATION_TIME = 86400000; // 1 day
 
     private SecretKey getSigningKey() {
