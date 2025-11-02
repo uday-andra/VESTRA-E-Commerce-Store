@@ -133,7 +133,6 @@ Built with a focus on **scalability, modularity, and data security** — ideal f
 | 🧪 **Postman** | — | API testing |
 
 
-## 🖼️ SCREENSHOTS
 
 ## 🖼️ SCREENSHOTS
 
